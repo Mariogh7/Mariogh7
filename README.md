@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Mariogh7
 - 👀 I’m interested in  Crear aplicaciones 
+- .
 - 🌱 I’m currently learning  Android Studio
--💞️ I’m looking to collaborate on ...
+-💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
 <!---
